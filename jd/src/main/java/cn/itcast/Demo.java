@@ -6,5 +6,7 @@ public class Demo {
         System.out.println("不错哦");
 
         System.out.println("AAA");
+
+        System.out.println("2222");
     }
 }
